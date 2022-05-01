@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Users/Miguel/Desktop/Nebula-master/OUTPUT/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "X30MainServer 1.12.2",
+    "description": "X30 Main Server For testing",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "954685456711286834",
+      "largeImageText": "X30MainServer",
+      "largeImageKey": "large"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2860"
+  },
+  "untrackedFiles": []
+}
