@@ -2,8 +2,8 @@
   "$schema": "file:///C:/Users/Miguel/Desktop/Nebula-master/OUTPUT/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "X30MainServer (Minecraft 1.12.2)",
-    "description": "X30MainServer Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "name": "X30VanillaServer (Minecraft 1.18.2)",
+    "description": "X30VanillaServer Running Minecraft 1.18.2",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,9 +12,6 @@
     },
     "mainServer": false,
     "autoconnect": false
-  },
-  "forge": {
-    "version": "14.23.5.2860"
   },
   "untrackedFiles": []
 }

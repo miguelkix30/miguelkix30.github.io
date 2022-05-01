@@ -1,11 +1,11 @@
 {
   "$schema": "file:///C:/Users/Miguel/Desktop/Nebula-master/OUTPUT/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "https://rss.app/feeds/t3VZ1BfFAWRaXNyj.xml",
+    "rss": "<LINK TO RSS FEED>",
     "discord": {
-      "clientId": "954685456711286834",
-      "smallImageText": "X30MainServer",
-      "smallImageKey": "large"
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     }
   }
 }
