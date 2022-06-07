@@ -1,0 +1,15 @@
+{
+  "$schema": "file:///D:/Software/Nebula-master/OUTPUT/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "X30MainModdedServer | 1.12.2",
+    "description": "X30MainModdedServer Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "address": "localhost:25565",
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2860"
+  },
+  "untrackedFiles": []
+}
