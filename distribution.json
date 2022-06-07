@@ -506,16 +506,6 @@
           }
         },
         {
-          "id": "com.leviathanstudio.craftstudio:craftstudioapi:1.0.0@jar",
-          "name": "CraftStudio API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 88557,
-            "url": "https://mellow-unicorn-12bbaf.netlify.app/servers/X30MainModdedServer-1.12.2/forgemods/required/CraftStudio-1.0.0.93-mc1.12-alpha.jar",
-            "MD5": "eb23a10c2d246cf65affeb59116c881e"
-          }
-        },
-        {
           "id": "com.blamejared:crafttweaker:1.12-4.1.20.675@jar",
           "name": "CraftTweaker2",
           "type": "ForgeMod",
