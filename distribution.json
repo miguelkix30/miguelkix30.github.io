@@ -646,6 +646,19 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://mellow-unicorn-12bbaf.netlify.app/servers/X30MainModdedServer-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
           "name": "OreLib Support Mod",
           "type": "ForgeMod",
