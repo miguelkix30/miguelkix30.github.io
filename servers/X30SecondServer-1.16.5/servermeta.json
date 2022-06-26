@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/Users/Miguel/Documents/GitHub/miguelkix30.github.io/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "X30SecondServer (Minecraft 1.16.5)",
+    "description": "X30SecondServer Running Minecraft 1.16.5 (Forge v36.2.35)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.35"
+  },
+  "untrackedFiles": []
+}
